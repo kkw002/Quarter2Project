@@ -1,0 +1,4 @@
+{
+  "dockerhub-id": "kkw002/predict_default",
+  "build-script": "python run.py"
+}
