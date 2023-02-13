@@ -5,4 +5,4 @@ This project attempts to identify which phrases, among other features that are g
 The data needs to be accessed through the Google Drive link.
 
 ## Viewing Results
-To see the results of the model on the dataset run ``` python run.py results ```
+To see the results of the model on the dataset run ``` python run.py test ```
