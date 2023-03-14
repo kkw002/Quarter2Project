@@ -12,5 +12,5 @@ def logistic_reg(df):
   x_test = tfidf.transform(X_test)
   lr=LogisticRegression()
   lr.fit(x_train,y_train)
-  ypred = lr.predict(x_test
+  ypred = lr.predict(x_test)
   print('model accuracy: '+metrics.accuracy_score(y_test,ypred))
