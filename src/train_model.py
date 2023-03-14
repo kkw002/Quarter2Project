@@ -13,4 +13,4 @@ def logistic_reg(df):
   lr=LogisticRegression()
   lr.fit(x_train,y_train)
   ypred = lr.predict(x_test)
-  print('model accuracy: '+metrics.accuracy_score(y_test,ypred))
+  print('model accuracy: '+str(metrics.accuracy_score(y_test,ypred)))
