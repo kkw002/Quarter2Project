@@ -1,4 +1,4 @@
-# DSC180B Quarter 2 Project: Prediction Transaction Types using NLP analysis.
+# DSC180B Quarter 2 Project: Prediction of Transaction Types using NLP analysis.
 This project attempts to identify which phrases, among other features that are generated from given data from Petal are used to predict the categorization of transaction made by a user. Currently, the model in the files only represents the 'base' model in which the features are relatively basic, as well as the model that was used to generate the accuracy.
 
 ## Accessing Data
